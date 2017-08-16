@@ -1,6 +1,6 @@
 ---
 title: "Motor Trend MPG Data Analysis"
-author: "Matthew Bender"
+author: "Govind Reddy"
 date: "August 16, 2017"
 output: html_document
 ---
